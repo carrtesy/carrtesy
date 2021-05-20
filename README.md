@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dongmin Kim (Tommy).
 - 👀 I’m interested in Problem Solvings and Deep Learning SWs.
 - 🌱 I’m currently learning Algorithms and Statistical Modeling,
-- 💞️ I’m looking to collaborate on any projects that make people's live better!
+- 💞️ I’m looking forward to collaborating on any projects that make people's live better!
 - 📫 See you!
 
 <!---
